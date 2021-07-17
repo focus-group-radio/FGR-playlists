@@ -42,6 +42,8 @@ let plist =
     "3EwugRSnZQAjxjYGPlgRUr",
     "4feQxfHeMLfH4Ul6XenHVK",
     "5gnJM4ofnXUHaUsWEUshkZ",
+    "0DyOYDFuPrf9QRq98Vj9Ul",
+    "1jx7WYdkKqL6cfpVVKxNHe"
     
 ]
 
