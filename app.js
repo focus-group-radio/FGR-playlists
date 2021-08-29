@@ -43,7 +43,12 @@ let plist =
     "4feQxfHeMLfH4Ul6XenHVK",
     "5gnJM4ofnXUHaUsWEUshkZ",
     "0DyOYDFuPrf9QRq98Vj9Ul",
-    "1jx7WYdkKqL6cfpVVKxNHe"
+    "1jx7WYdkKqL6cfpVVKxNHe",
+    "6LRxyJwe3twmc2GIisvkSo",
+    "37OpuoO4pbvvwG7w2xJaJL",
+    "06R9CyFXWhMyADM1hBQeTM",
+    "6nQ34l9Wm3Dsqnqntvwv2d",
+    "4YYsZwbaihjSAVab0N2Pah"
     
 ]
 
