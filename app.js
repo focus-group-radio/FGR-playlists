@@ -53,7 +53,13 @@ let plist =
     "6XKx9o51h6Y4Z8RPFOzfkK",
     "1qVOw8TQLIiO3qw6jueuvY",
     "63Ruw9EZ4CFCGNbqBcwMMS",
-    "1vh4gYD9Zfab8bmXwwZoUC"
+    "1vh4gYD9Zfab8bmXwwZoUC",
+    "1vcgV22sClhw3RHsu3wnUB",
+    "0mNV8vdF39iFnkx8tmgg75",
+    "2FOAhRA2S3rrES96gu1FRT",
+    "3iDi7P2guBHCtS8EzPj38A",
+    "62AoA6MWxt0oJLGmAt4rmT",
+    "0gyXwHbJiRFwEsUz2tu6rD"
 ]
 
 const cont = document.querySelector(".cont");
